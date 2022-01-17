@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/logzio
 go 1.16
 
 require (
-	github.com/hashicorp/go-hclog v0.16.2
+	github.com/hashicorp/go-hclog v1.1.0
 	github.com/jaegertracing/jaeger v1.25.0
 	github.com/logzio/jaeger-logzio v1.0.3
 	github.com/stretchr/testify v1.7.0
