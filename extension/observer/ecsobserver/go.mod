@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/aws/aws-sdk-go v1.40.24
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.33.1-0.20210820002854-d3000232f8f6
 	go.opentelemetry.io/collector/model v0.33.1-0.20210820002854-d3000232f8f6 // indirect
 	go.uber.org/multierr v1.7.0
